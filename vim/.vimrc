@@ -59,4 +59,8 @@ endif " has("autocmd")
 if has('syntax') && has('eval')
   packadd! matchit
 endif
+
+" Custom settings start from here
+
+" Plugins
 set runtimepath^=~/.vim/bundle/ctrlp.vim
