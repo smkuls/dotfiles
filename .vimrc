@@ -1,0 +1,1 @@
+/home/smkuls/.vimrc
